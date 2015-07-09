@@ -1,0 +1,68 @@
+@import url(http://fonts.googleapis.com/css?family=Lobster+Two);
+
+#swampy{
+  border-radius: 20%;
+}
+
+#about{
+  width: 50%;
+  margin: 0 auto;
+  background-color: #66FF66;
+  border-radius: 1%;
+}
+
+
+.lol{
+  display: inline-block;
+  margin: 0 auto;
+}
+
+.sman{
+  width: 15%;
+  display: inline-block;
+  margin: auto;
+}
+
+
+#super{
+  width: 30%;
+}
+
+body{
+  background: url("http://wallfir.com/wp-content/uploads/2015/04/Lake-Sunset-Background-Picture.jpg");
+  margin: 0px;
+}
+
+.name{
+  font-family: "Lobster Two";
+  color: white;
+  margin: 0px;
+  
+font-size: 15px;
+ 
+}
+
+#video{
+  position: relative;
+  left: 25%;
+  border-style: groove;
+  border-width: 5px;
+}
+
+.fb{
+  border-radius: 10%;
+  width: 10%;
+  position: relative;
+  left: 75%;
+}
+
+#bird{
+  position: relative;
+  left: 35%;
+  width: 40px;
+}
+
+.social{
+  display: inline-block;
+  float: right;
+}
